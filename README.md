@@ -1,2 +1,1 @@
-# YouTube-algorithm-
-Tips, trick, tutorial about algorithm 
+google-site-verification: googlea03be5ca67ab732a.html
